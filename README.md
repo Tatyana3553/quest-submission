@@ -24,3 +24,10 @@ Chapter 2. Day 1.
 ![2022-07-21_00-47-26](https://user-images.githubusercontent.com/109033106/180090410-0e2cbc54-9e76-4a4e-a155-ba282f658a21.png)
 
 ![2022-07-21_01-25-50](https://user-images.githubusercontent.com/109033106/180093169-666285c3-bdb4-4f93-b316-38fe9aed97de.png)
+
+Chapter 2. Day 2.
+
+
+1. We do not have the opportunity to change something while the script is running.  The script can only read information from the Blockchain.
+2. AuthAuccount means a type that gives access to data.
+3. Prepare is used to view the data in the account.  Execute is used to call a function that changes data in an account.
