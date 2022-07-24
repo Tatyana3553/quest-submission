@@ -42,7 +42,7 @@ Capter 2. Day 3.
 
 1. In a script, initialize an array (that has length == 3) of your favourite people, represented as Strings, and log it.
 
-
+![2022-07-24_18-42-06](https://user-images.githubusercontent.com/109033106/180655079-6b4c4104-1047-4114-b1ec-0e6cbe90e0b6.png)
 
 2. In a script, initialize a dictionary that maps the Strings Facebook, Instagram, Twitter, YouTube, Reddit, and LinkedIn to a UInt64 that represents the order in which you use them from most to least. For example, YouTube --> 1, Reddit --> 2, etc. If you've never used one before, map it to 0!
 
