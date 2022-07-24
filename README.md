@@ -35,3 +35,5 @@ Chapter 2. Day 2.
 ![2022-07-24_17-34-47](https://user-images.githubusercontent.com/109033106/180652076-5e6113db-902d-4f02-acd6-78983e78db30.png)
 
 ![2022-07-24_17-51-30](https://user-images.githubusercontent.com/109033106/180652747-9e4415c1-bdf9-4aa0-aee8-dd05b9bf9a03.png)
+
+![2022-07-24_17-55-24](https://user-images.githubusercontent.com/109033106/180652886-9c69aafe-1047-4107-a0ff-8b82c0ff2eaf.png)
