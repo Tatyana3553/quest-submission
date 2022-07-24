@@ -34,4 +34,3 @@ Chapter 2. Day 2.
 4. 
 ![2022-07-24_17-34-47](https://user-images.githubusercontent.com/109033106/180652076-5e6113db-902d-4f02-acd6-78983e78db30.png)
 
-4. https://disk.yandex.ru/i/FmLwUHT6V9U4Aw
