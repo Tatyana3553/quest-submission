@@ -46,6 +46,7 @@ Capter 2. Day 3.
 
 2. In a script, initialize a dictionary that maps the Strings Facebook, Instagram, Twitter, YouTube, Reddit, and LinkedIn to a UInt64 that represents the order in which you use them from most to least. For example, YouTube --> 1, Reddit --> 2, etc. If you've never used one before, map it to 0!
 
+![2022-07-24_18-50-03](https://user-images.githubusercontent.com/109033106/180655465-61ffd49c-714a-4006-ad62-fce0a4c87ab7.png)
 
 3. Explain what the force unwrap operator ! does, with an example different from the one I showed you (you can just change the type).
 
